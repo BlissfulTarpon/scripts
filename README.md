@@ -4,7 +4,7 @@ Quelques scripts utiles en cybersécurité.
 
 ## IP SWEEP
 
-Permet de faire la détection de machine sur une réseau. Basé sur le script créé par @thecybermentor et Georgia Weidman.
+Permet de faire la détection de machines sur un réseau. Basé sur le script créé par @thecybermentor et Georgia Weidman.
 
 ## IP SWEEP (PYTHON)
 
