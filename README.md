@@ -6,16 +6,10 @@ Quelques scripts utiles en cybersécurité.
 
 Permet de faire la détection de machine sur une réseau. Basé sur le script créé par @thecybermentor et Georgia Weidman.
 
-### DÉPENDANCE
+## IP SWEEP (PYTHON)
 
-Linux OS
-Bash
+Une autre manière de faire up scan du subnet, par l'entremise de python (plus lent).
 
-### USAGE
+## NMAP SCAN AUTOMATISÉ
 
-Copier le script dans votre PATH sinon faire l'exécution comme suit:
-
-    ./ipsweep.sh <subnet ip>
-    ./ipsweep.sh 192.168.2
-
----
+Permet de prendre le résultat d'un ping sweep comme input afin d'automatisé le processus de scan initial.
