@@ -13,3 +13,7 @@ Une autre manière de faire up scan du subnet, par l'entremise de python (plus l
 ## NMAP SCAN AUTOMATISÉ
 
 Permet de prendre le résultat d'un ping sweep comme input afin d'automatisé le processus de scan initial.
+
+## SCAN INITIAL AUTOMATIQUE
+
+Le but de ce script est d'automatiser le scan initial lors d'un engagement.
