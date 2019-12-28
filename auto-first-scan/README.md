@@ -8,14 +8,14 @@ Le but de ce script est d'automatiser le scan initial lors d'un engagement. Il f
 
 ## DÉPENDANCES
 
-Bash
+- Bash
 
-ping
+- ping
 
-nmap
+- nmap
 
 ## USAGE
 
-./first-scan.sh <réseau>
+    ./first-scan.sh <réseau>
 
-./first-scan.sh 192.168.1
+    ./first-scan.sh 192.168.1
