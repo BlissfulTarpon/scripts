@@ -6,13 +6,16 @@ Le but de ce script est d'automatiser le scan initial lors d'un engagement. Il f
   - Scan avec nmap en TCP et UDP
   - Sauvegarde en fichiers recherchable
 
-## DÉPENDANCE
+## DÉPENDANCES
 
 Bash
+
 ping
+
 nmap
 
 ## USAGE
 
 ./first-scan.sh <réseau>
+
 ./first-scan.sh 192.168.1
