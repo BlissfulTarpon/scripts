@@ -8,7 +8,7 @@ Python 2.x
 
 ### USAGE
 
-python ipsweep-python.py
+      python ipsweep-python.py
 
 Entrez le réseau
 Entrez la première adresse IP
